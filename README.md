@@ -31,7 +31,7 @@ El fitxer del codi és AA1Colab.ipynb i es disposa de l'arxiu de dades tractades
 ## Autors
 
 
-* **Roger Bargalló Roselló** - 2n GCED* - [Github](https://github.com/rbargallor)
+* **Roger Bargalló Roselló** - *2n GCED* - [Github](https://github.com/rbargallor)
 * **Laia Mogas Pladevall** - *2n GCED* - [Github](https://github.com/laiamp)
 
 ## Llicència
